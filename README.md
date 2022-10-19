@@ -133,13 +133,13 @@ PythonQt is distributed under the LGPL 2.1 license.
 
 <p align="center">
 
-<img alt="支付宝" src="img/支付宝捐助.jpg" height=50% width=50%>
+<img alt="支付宝" src="支付宝捐助.jpg" height=50% width=50%>
 <p align="center">感谢支持</p>
 
 </p>
 
 <p align="center">
-<img alt="微信" src="img/微信捐助.png" height=50% width=50%>
+<img alt="微信" src="微信捐助.png" height=50% width=50%>
 <p align="center">感谢支持</p>
 
 </p>
